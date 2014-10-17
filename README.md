@@ -1,4 +1,4 @@
-#This is the REAMME.md file for github.com/hypocorism/p2
+#This is the README.md file for github.com/hypocorism/p2
 
 
 >This site generates passwords which are easy to remember but difficult to crack, using random numbers and/or common random words. It is based on the concept presented on www.xkcd.com
